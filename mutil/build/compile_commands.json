@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/mnt/c/Users/16658/Desktop/mutil/build",
+  "command": "/usr/bin/clang++   -I../hello -I../world  -g   -o CMakeFiles/helloworld.dir/main.cpp.o -c /mnt/c/Users/16658/Desktop/mutil/main.cpp",
+  "file": "/mnt/c/Users/16658/Desktop/mutil/main.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/16658/Desktop/mutil/build",
+  "command": "/usr/bin/clang++   -I../hello -I../world  -g   -o hello/CMakeFiles/hello.dir/hello.cpp.o -c /mnt/c/Users/16658/Desktop/mutil/hello/hello.cpp",
+  "file": "/mnt/c/Users/16658/Desktop/mutil/hello/hello.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/16658/Desktop/mutil/build",
+  "command": "/usr/bin/clang++   -I../hello -I../world  -g   -o world/CMakeFiles/world.dir/world.cpp.o -c /mnt/c/Users/16658/Desktop/mutil/world/world.cpp",
+  "file": "/mnt/c/Users/16658/Desktop/mutil/world/world.cpp"
+}
+]

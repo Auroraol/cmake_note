@@ -1,0 +1,6 @@
+/mnt/c/Users/16658/Desktop/cpp/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/16658/Desktop/cpp/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/16658/Desktop/cpp/build/CMakeFiles/demo.dir
+/mnt/c/Users/16658/Desktop/cpp/build/src/ff/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/16658/Desktop/cpp/build/src/ff/CMakeFiles/edit_cache.dir
+/mnt/c/Users/16658/Desktop/cpp/build/src/ff/CMakeFiles/fun1lib.dir

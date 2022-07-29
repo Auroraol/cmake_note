@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Gun.h
+string
+-
+
+../include/Soldier.h
+string
+-
+Gun.h
+../include/Gun.h
+
+/mnt/c/Users/16658/Desktop/课程七讲_源码/Class_7/src/Gun.cpp
+Gun.h
+/mnt/c/Users/16658/Desktop/课程七讲_源码/Class_7/src/Gun.h
+iostream
+/mnt/c/Users/16658/Desktop/课程七讲_源码/Class_7/src/iostream
+
+/mnt/c/Users/16658/Desktop/课程七讲_源码/Class_7/src/Solider.cpp
+Soldier.h
+/mnt/c/Users/16658/Desktop/课程七讲_源码/Class_7/src/Soldier.h
+

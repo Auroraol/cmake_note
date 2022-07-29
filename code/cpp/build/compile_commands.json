@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/mnt/c/Users/16658/Desktop/cpp/build",
+  "command": "/usr/bin/clang++    -g   -o CMakeFiles/demo.dir/main.cpp.o -c /mnt/c/Users/16658/Desktop/cpp/main.cpp",
+  "file": "/mnt/c/Users/16658/Desktop/cpp/main.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/16658/Desktop/cpp/build",
+  "command": "/usr/bin/clang++    -g   -o src/ff/CMakeFiles/fun1lib.dir/fun.cpp.o -c /mnt/c/Users/16658/Desktop/cpp/src/ff/fun.cpp",
+  "file": "/mnt/c/Users/16658/Desktop/cpp/src/ff/fun.cpp"
+}
+]

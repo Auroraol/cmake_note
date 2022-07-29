@@ -1,0 +1,9 @@
+/mnt/c/Users/16658/Desktop/mutil/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/16658/Desktop/mutil/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/16658/Desktop/mutil/build/CMakeFiles/helloworld.dir
+/mnt/c/Users/16658/Desktop/mutil/build/hello/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/16658/Desktop/mutil/build/hello/CMakeFiles/edit_cache.dir
+/mnt/c/Users/16658/Desktop/mutil/build/hello/CMakeFiles/hello.dir
+/mnt/c/Users/16658/Desktop/mutil/build/world/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/16658/Desktop/mutil/build/world/CMakeFiles/edit_cache.dir
+/mnt/c/Users/16658/Desktop/mutil/build/world/CMakeFiles/world.dir
