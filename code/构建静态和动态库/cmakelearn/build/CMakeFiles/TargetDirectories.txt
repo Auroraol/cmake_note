@@ -1,0 +1,2 @@
+/root/cmakelearn/build/bin/CMakeFiles/hello.dir
+/root/cmakelearn/build/bin/CMakeFiles/hello_static.dir
